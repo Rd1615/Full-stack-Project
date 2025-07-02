@@ -1,0 +1,1 @@
+this is Admin descbood app for manage stocks and all 
